@@ -13,13 +13,12 @@ SCSS를 활용한 웹페이지 LAYOUT 클론코딩
 
 > 배포링크
 
-> 동작
+> 기능
 
 <br><br>
 
 # 배포링크
-
-[scss-layout](https://uzleem.github.ios/scss-layout/)
+[scss-layout](https://uzleem.github.io/scss-layout/)
 <br><br>
 
 # 기능
